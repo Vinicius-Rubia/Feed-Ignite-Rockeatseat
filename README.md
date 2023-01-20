@@ -3,7 +3,7 @@
 Esse projeto é um feed que lista posts e comentários, podendo realizar um comentário à postagem e curtir o post que nesse projeto seria os "aplausos".
 
 
-Você pode ver o projeto funcionado aqui: [Ignite Feed](https://ignite-feed-rocket.vercel.app/)
+Você pode ver o projeto funcionado aqui: [Ignite Feed](https://feed-ignite-rockeatseat.vercel.app/)
 
 ## Layout
 
